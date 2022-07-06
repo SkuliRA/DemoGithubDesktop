@@ -1,0 +1,2 @@
+Its written in master branch
+This is new text from bugFix branch
